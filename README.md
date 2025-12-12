@@ -3,7 +3,7 @@
 Resubmission of 361: 
 
 Run code: 
-python3 a3.py <insert capture file> 
+python3 a3.py insert capture file 
 
 example: python3 a3.py group1-trace1.pcap
 
